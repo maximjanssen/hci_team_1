@@ -1,0 +1,29 @@
+{
+  "name": "nuxt-vue2-google-maps",
+  "version": "1.0.0",
+  "description": "Example for Nuxt 2 and https://github.com/xkjyeah/vue-google-maps",
+  "author": "Atinux",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.0.0",
+    "@nuxtjs/tailwindcss": "^1.2.0",
+    "core-js": "2.5.7",
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.1.0",
+    "vue2-google-maps": "0.10.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "keywords": [
+    "nuxt",
+    "google-maps",
+    "vue"
+  ]
+}

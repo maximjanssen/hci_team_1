@@ -1,0 +1,228 @@
+﻿[
+	{
+		"name": "Albanian_(Tosk)",
+		"location": { "lat": 40.64720024483942, "lng": 20.091656127779743 },
+		"draw":	false
+	},
+	{
+		"name": "Albanian_(Gheg)",
+		"location": { "lat": 42.01246938166626, "lng": 19.948833862154743 },
+		"draw":	false
+	},
+	{
+		"name": "Basque",
+		"location": { "lat": 43.11602884063252, "lng": -2.5439770216878514 },
+		"draw":	false
+	},
+	{
+		"name": "Belarusian",
+		"location": { "lat": 53.897487324517506, "lng": 27.585533009033725 },
+		"draw": false
+	},
+	{
+		"name": "Breton",
+		"location": { "lat": 47.00344753314579, "lng": 1.6678529920881147 },
+		"draw": false
+	},
+	{
+		"name": "Bulgarian",
+		"location": { "lat": 42.68331405730502, "lng": 25.292666128829183 },
+		"draw": false
+	},
+	{
+		"name": "Catalan",
+		"location": { "lat": 41.660261408837854, "lng": 1.9273960268299106 },
+		"draw": false
+	},
+	{
+		"name": "Croatian",
+		"location": { "lat": 45.35114565241881, "lng": 15.539774467568805 },
+		"draw": false
+	},
+	{
+		"name": "Czech",
+		"location": { "lat": 49.82642933806307, "lng": 15.365676049830427 },
+		"draw": false
+	},
+	{
+		"name": "Danish",
+		"location": { "lat": 56.03988606977245, "lng": 9.134718073495947 },
+		"draw": false
+	},
+	{
+		"name": "Dutch",
+		"location":  { "lat": 52.133990993921245, "lng": 5.442574044072217 },
+		"draw": false
+	},
+	{
+		"name": "English",
+		"location": { "lat": 52.20719203066953, "lng": -1.3842325710970727 },
+		"draw": false
+	},
+	{
+		"name": "Estonian",
+		"location": { "lat": 58.818753423769685, "lng": 25.93814148491947 },
+		"draw": false
+	},
+	{
+		"name": "Faroese",
+		"location": { "lat": 62.1522112417965, "lng": -6.967592878037408 },
+		"draw": false
+	},
+	{
+		"name": "Finnish",
+		"location": { "lat": 62.3711002059178, "lng": 25.579280267432978 },
+		"draw": false
+	},
+	{
+		"name": "Flemish",
+		"location": { "lat": 51.03710121777774, "lng": 4.739318993573647 }  ,
+		"draw": false
+	},
+	{
+		"name": "French",
+		"location": { "lat": 46.54378780285881, "lng": 2.3494132413752595 } ,
+		"draw": false
+	},
+	{
+		"name": "Frisian",
+		"location": { "lat": 53.13057690076756, "lng": 5.859493368490121 },
+		"draw": false
+	},
+	{
+		"name": "Galician",
+		"location": { "lat": 42.86787963088868, "lng": -7.785835092424577 },
+		"draw": false
+	},
+	{
+		"name": "German",
+		"location": { "lat": 51.3851269455485, "lng": 10.24689469319435 },
+		"draw": false
+	},
+	{
+		"name": "Greek",
+		"location": { "lat": 38.4991168351883, "lng": 22.78992970182935 },
+		"draw": false
+	},
+	{
+		"name": "Hungarian",
+		"location": { "lat": 47.152183331921385, "lng": 19.244146426996167 },
+		"draw": false
+	},
+	{
+		"name": "Icelandic",
+		"location": { "lat": 64.83037890891347, "lng": -18.45660958547046 },
+		"draw": false
+	},
+	{
+		"name": "Irish",
+		"location": { "lat": 53.14694684072229, "lng": -8.34918771047046 } ,
+		"draw": false
+	},
+	{
+		"name": "Italian",
+		"location": { "lat": 43.1011977575784, "lng": 12.30510916452954 },
+		"draw": false
+	},
+	{
+		"name": "Latvian",
+		"location": { "lat": 57.018884980259756, "lng": 26.035667481438963 },
+		"draw": false
+	},
+	{
+		"name": "Lithuanian",
+		"location": { "lat": 55.37162097566198, "lng": 23.85843697911264 },
+		"draw": false
+	},
+	{
+		"name": "Macedonian",
+		"location": { "lat": 41.668738919660264, "lng": 21.660714882479738 },
+		"draw": false
+	},
+	{
+		"name": "Maltese",
+		"location": { "lat": 35.89311258313966, "lng": 14.435658455167072 },
+		"draw": false
+	},
+	{
+		"name": "Norwegian(bokmal)",
+		"location": { "lat": 60.21850381687786, "lng": 8.798561085240408 },
+		"draw": false
+	},
+	{
+		"name": "Norwegian(nynorsk)",
+		"location": { "lat": 63.174659767702686, "lng": 10.468482960240408 },
+		"draw": false
+	},
+	{
+		"name": "Polish",
+		"location": { "lat": 52.403049108792395, "lng": 19.081764210240408 },
+		"draw": false
+	},
+	{
+		"name": "Portuguese",
+		"location": { "lat": 39.917117318393686, "lng": -8.08048533298279 },
+		"draw": false
+	},
+	{
+		"name": "Romanian",
+		"location": { "lat": 46.232109976729234, "lng": 25.93318654201721 },
+		"draw": false
+	},
+	{
+		"name": "Russian",
+		"location": { "lat": 55.73011545306988, "lng": 37.729894178583436 },
+		"draw": false
+	},
+	{
+		"name": "Scots",
+		"location": { "lat": 56.974739493897296, "lng": -4.268632042942727 },
+		"draw": false
+	},
+	{
+		"name": "Serbian",
+		"location": { "lat": 44.13087311984474, "lng": 20.662945190279743 },
+		"draw": false
+	},
+	{
+		"name": "Slovak",
+		"location": { "lat": 48.741284641283194, "lng": 19.101436133680636 },
+		"draw": false
+	},
+	{
+		"name": "Slovene",
+		"location": { "lat": 46.076933022024726, "lng": 14.742450437436673 },
+		"draw": false
+	},
+	{
+		"name": "Spanish",
+		"location": { "lat": 40.39462595100465, "lng": -3.646621655684612 } ,
+		"draw": false
+	},
+	{
+		"name": "Swedish",
+		"location": { "lat": 59.797894640011656, "lng": 15.059709850160743 },
+		"draw": false
+	},
+	{
+		"name": "Turkish",
+		"location": { "lat": 39.24116383817406, "lng": 33.91850911898268 },
+		"draw": false
+	},
+	{
+		"name": "Ukrainian",
+		"location": { "lat": 49.31663557088487, "lng": 31.809134118982684 },
+		"draw": false
+	},
+	{
+		"name": "Walloon",
+		"location": { "lat": 50.536888754712265, "lng": 4.397188689449308 },
+		"draw": false
+	},
+	{
+		"name": "Welsh",
+		"location": { "lat": 52.30291909674476, "lng": -3.8167014296648176 }
+	}
+]
+
+
