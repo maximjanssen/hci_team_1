@@ -1,4 +1,4 @@
-# codesandbox-nuxt
+# HCI final project
 ## Build Setup
 
 ``` bash
